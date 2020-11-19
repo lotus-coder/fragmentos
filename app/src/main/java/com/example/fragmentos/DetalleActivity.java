@@ -3,7 +3,7 @@ import android.os.Bundle;
 import android.util.Log;
 import androidx.appcompat.app.AppCompatActivity;
 public class DetalleActivity extends AppCompatActivity {
-    public static final String EXTRA_TEXTO = "com.example.ejfragments.EXTRA_TEXTO";
+    public static final String EXTRA_TEXTO = "com.example.fragmentos.EXTRA_TEXTO";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
